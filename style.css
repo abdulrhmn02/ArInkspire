@@ -1,0 +1,32 @@
+
+        body{
+            background-color: #F0DFC8;
+        }
+    
+        h1{
+            font-family: serif;
+            
+            
+        }
+        .intro{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            
+            align-items: center;
+            padding: 200px;
+        }
+        p{
+            color: black;
+            font-weight: 300;
+        }
+        .icon{
+            height: 300px;
+            width:300px;
+            border-radius: 50%;
+            
+            
+        }
+       
+
+    
